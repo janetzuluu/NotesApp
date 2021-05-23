@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238320260066",
+    "project_id": "notesapp-5089c",
+    "storage_bucket": "notesapp-5089c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238320260066:android:a54bbc990a5d27daad5fbb",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238320260066-aijhh5ppdcmba43gjih9gk9g486dnd5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZPfX9cxdBRs0i1JlpPbJc4Z49WaHlTk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238320260066-aijhh5ppdcmba43gjih9gk9g486dnd5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
